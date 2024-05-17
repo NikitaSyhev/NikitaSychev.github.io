@@ -20,7 +20,7 @@ C 2022 года изучаю разработку програмного обе�
 [![codewars](https://www.codewars.com/users/NikitaSyhev/badges/large)](https://www.codewars.com/users/NikitaSyhev)   
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaSyhev&theme=dark)](https://git.io/streak-stats)
 ## Посещаемость профиля:
 ![](https://komarev.com/ghpvc/?username=your-github-NikitaSyhev&color=green)
 
